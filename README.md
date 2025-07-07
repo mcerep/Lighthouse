@@ -9,4 +9,6 @@ sections are completed with example solutions.
 
 **Lighthouse Part 2** covers the basic functionalities of NumPy and Matplotlib and then walks the user through creating and phase folding pulsar data using NumPy and Matplotlib.
 
+**Lightouse Part 3** covers the Astropy package, a powerful library of astronomy-specific tools; the notebook includes several challenges.
+
 Please note that these are Jupyter notebooks, so students will need someone to help them set up the appropriate environment to run them before starting.
